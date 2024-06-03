@@ -21,7 +21,7 @@
 <h3 align="center">Other Profiles</h3>
 <a href="https://www.kaggle.com/ahmadulkc"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
 <a href="https://public.tableau.com/profile/ahmadul.karim.chowdhury2820">  <img src="https://img.shields.io/badge/Tableau_Public-0070C0?style=for-the-badge&logo=tableau&logoColor=white"></a>
-<a href="">  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>
+<a href="https://github.com/AKC23/Microsoft-Power-BI-Projects/">  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>
 <a href="https://www.youtube.com/channel/UCsrAIm1TuOTUx92EJ3WGZ6A"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </div>
 
