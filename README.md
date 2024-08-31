@@ -1,9 +1,10 @@
+<!-- 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=akc23&label=Profile%20views&color=0e75b6&style=flat" alt="akc23" /> </p> 
+-->
 
 <div align="center">
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ink+Free&size=25&duration=2500&pause=200&color=4285F4&background=FFFFFF&center=true&vCenter=true&multiline=true&random=false&width=800&height=120&lines=Hello;I'm+Ahmadul+Karim+Chowdhury;A+passionate+Data+Scientist+%26+AI+enthusiast" alt="Typing SVG" /></a>
-
 
 <h3 align="center">Connect with me</h3>
 
@@ -14,9 +15,6 @@
 <a href='https://www.researchgate.net/profile/Ahmadul-Chowdhury' target="_blank"><img src='https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white'></a>
 </div>
 
-<br/>
-
-
 <div align="center">
 <h3 align="center">Other Profiles</h3>
 <a href="https://www.kaggle.com/ahmadulkc"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
@@ -26,8 +24,7 @@
 </div>
 
 <hr>
-
-
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=akc23&label=Profile%20views&color=0e75b6&style=flat" alt="akc23" /> </p> 
 
 <div align="center">
 <h3 align="center">GitHub Stats</h3>
