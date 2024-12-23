@@ -3,8 +3,8 @@
 -->
 
 <div align="center">
-  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ink+Free&size=25&duration=2500&pause=200&color=4285F4&background=FFFFFF&center=true&vCenter=true&multiline=true&random=false&width=800&height=120&lines=Hello;I'm+Ahmadul+Karim+Chowdhury;A+passionate+Data+Scientist+%26+AI+enthusiast" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ink+Free&size=25&duration=2500&pause=200&color=4285F4&background=FFFFFF&center=true&vCenter=true&multiline=true&random=false&width=800&height=120&lines=Hello;I'm+Ahmadul+Karim+Chowdhury;Full-Stack+Data+Engineer+%7C+AI+Researcher" alt="Typing SVG" /></a>
 
 <h3 align="center">Connect with me</h3>
 
