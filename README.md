@@ -10,7 +10,6 @@
 <h3 align="center">Connect with me</h3>
 
 <a href="mailto:ahmadulkc@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/ahmadulkc/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.facebook.com/ahmadul.chow"><img src="https://img.shields.io/badge/Facebook-3B5998?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href='https://www.researchgate.net/profile/Ahmadul-Chowdhury' target="_blank"><img src='https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white'></a>
