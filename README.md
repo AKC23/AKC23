@@ -4,7 +4,11 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ink+Free&size=25&duration=2000&pause=220&color=4285F4&background=FFFFFF&center=true&vCenter=true&multiline=true&random=false&width=800&height=120&lines=Hello;I'm+Ahmadul+Karim+Chowdhury;Data+Analyst+%7C+Research+Assistant" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Ink+Free&size=25&duration=2000&pause=800&color=4285F4&background=FFFFFF&center=true&vCenter=true&multiline=true&random=false&repeat=false&width=800&height=120&lines=Hello;I+am+Ahmadul+Karim+Chowdhury;Data+Analytics,+Machine+Learning+%26+Visualization+Expert" alt="Typing SVG" />
+</a>
+
+
 
 
 <h3 align="center">Connect with me</h3>
