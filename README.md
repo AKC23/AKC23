@@ -16,14 +16,14 @@
 <a href="mailto:ahmadulkc@gmail.com">
 <a href="https://www.linkedin.com/in/ahmadulkc/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.facebook.com/ahmadul.chow"><img src="https://img.shields.io/badge/Facebook-3B5998?style=for-the-badge&logo=facebook&logoColor=white"></a>
-<a href='https://www.researchgate.net/profile/Ahmadul-Chowdhury' target="_blank"><img src='https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white'></a>
 </div>
 
 <div align="center">
 <h3 align="center">Other Profiles</h3>
-<a href="https://www.kaggle.com/ahmadulkc"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
-<a href="https://public.tableau.com/app/profile/ahmadul/vizzes"><img src="https://img.shields.io/badge/Tableau_Public-0070C0?style=for-the-badge&logo=tableau&logoColor=white"></a>
 <a href="https://github.com/AKC23/Microsoft-Power-BI-Projects/">  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>
+<a href="https://public.tableau.com/app/profile/ahmadul/vizzes"><img src="https://img.shields.io/badge/Tableau_Public-0070C0?style=for-the-badge&logo=tableau&logoColor=white"></a>
+<a href="https://www.kaggle.com/ahmadulkc"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
+<a href='https://www.researchgate.net/profile/Ahmadul-Chowdhury' target="_blank"><img src='https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white'></a>  
 <a href="https://www.youtube.com/channel/UCsrAIm1TuOTUx92EJ3WGZ6A"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </div>
 
